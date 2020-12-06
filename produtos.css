@@ -1,6 +1,6 @@
 header {
   background: #bbb;
-  padding: 20px;
+  padding: 20px 0;
 }
 
 .caixa {
@@ -26,6 +26,6 @@ nav a {
   font-weight: bold;
   font-size: 22px;
   text-decoration: none;
-}
+} 
 
 
